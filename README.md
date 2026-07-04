@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=DM+Mono&weight=500&size=14&pause=4000&color=3D6A8A&center=true&vCenter=true&width=850&height=28&lines=Building+AI+for+computational+biology+and+precision+medicine.)
 
-[![Email](https://img.shields.io/badge/Email-your_email@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sanmati.bioinfo@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanmati_Ganesh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanmati-ganesh)
 
 </div>
@@ -43,4 +43,10 @@ Research collaborations in AI-driven diagnostics, biomarker discovery, and trans
 
 ---
 
-> *Every dataset tells a biological story. I'm interested in building AI that helps us read it sooner.*
+> $ git log -1 --format="%B"
+
+commit 7f3a9c2
+Author: Sanmati Ganesh
+
+    Every dataset tells a biological story.
+    I'm interested in building AI that helps us read it sooner.
