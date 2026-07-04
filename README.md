@@ -43,7 +43,13 @@ Research collaborations in AI-driven diagnostics, biomarker discovery, and trans
 
 ---
 
-> $ cat philosophy.txt
+> <div align="center">
 
-Every dataset tells a biological story.
-I'm interested in building AI that helps us read it sooner.
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+`Every dataset tells a biological story.`
+`I'm interested in building AI that helps us read it sooner.`
+
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+</div>
