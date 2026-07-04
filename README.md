@@ -43,13 +43,11 @@ Research collaborations in AI-driven diagnostics, biomarker discovery, and trans
 
 ---
 
-> <div align="center">
+> ---
 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-
-`Every dataset tells a biological story.`
-`I'm interested in building AI that helps us read it sooner.`
-
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-
-</div>
+```python
+research_philosophy = {
+    "belief": "Every dataset tells a biological story.",
+    "mission": "Build AI that helps us read it sooner."
+}
+```
