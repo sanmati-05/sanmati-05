@@ -43,7 +43,4 @@ Research collaborations in AI-driven diagnostics, biomarker discovery, and trans
 
 ---
 
-> *I'd rather build something a doctor can question and trust, than something they're just told to believe.*
----
-
 > *Every dataset tells a biological story. I'm interested in building AI that helps us read it sooner.*
