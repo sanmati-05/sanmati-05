@@ -43,8 +43,7 @@ Research collaborations in AI-driven diagnostics, biomarker discovery, and trans
 
 ---
 
-> <div align="center">
+> $ cat philosophy.txt
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=DM+Mono&weight=400&size=13&duration=3000&pause=8000&color=6B7280&center=true&vCenter=true&width=750&height=24&lines=Every+dataset+tells+a+biological+story.+I'm+interested+in+building+AI+that+helps+us+read+it+sooner.)
-
-</div>
+Every dataset tells a biological story.
+I'm interested in building AI that helps us read it sooner.
