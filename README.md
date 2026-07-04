@@ -1,17 +1,21 @@
-## Hi there  I'm Sanmati 👋 
+<div align="center">
+
+# Hi there I'm Sanmati 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=DM+Mono&weight=500&size=14&pause=4000&color=3D6A8A&center=true&vCenter=true&width=850&height=28&lines=Building+AI+for+computational+biology+and+precision+medicine.)
 
 [![Email](https://img.shields.io/badge/Email-your_email@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanmati_Ganesh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanmati-ganesh)
 
+</div>
+
 ---
 
 ## About Me
 
-I'm a Master's student in **Bioinformatics and Computational Biology**, working at the intersection of computational biology and AI — moving from traditional bioinformatics workflows toward machine learning, LLMs, and intelligent systems for early disease detection, biomarker discovery, and precision medicine.
+I'm a Master's student in **Bioinformatics and Computational Biology**, working at the intersection of computational biology and AI- moving from traditional bioinformatics workflows toward machine learning, LLMs, and intelligent systems for early disease detection, biomarker discovery, and precision medicine.
 
-What draws me to this space is fairly simple: people deserve to know what's happening in their own bodies before it's too late to act on it. A lot of diagnosis still happens after disease has already taken hold, when options have narrowed. I want to help build the tools that move that detection earlier — which is why I'm trying to build depth across biology, AI/ML, and software engineering together, rather than staying inside just one of them.
+What draws me to this space is fairly simple: people deserve to know what's happening in their own bodies before it's too late to act on it. A lot of diagnosis still happens after disease has already taken hold, when options have narrowed. I want to help build the tools that move that detection earlier - which is why I'm trying to build depth across biology and AI/ML together, rather than staying inside just one of them. And I want what I build to be something a doctor can question and verify, not a black box they're asked to just trust - the goal of diagnosis doesn't change, I just want to help make the tools for it better.
 
 ---
 
@@ -20,7 +24,7 @@ What draws me to this space is fairly simple: people deserve to know what's happ
 - 🧬 Machine learning pipelines for genomic and transcriptomic analysis
 - 🩺 Early disease detection and biomarker discovery
 - 🤖 Agentic AI and LLM-based systems for clinical and biomedical data
-- 🧪 Reproducible computational workflows bridging biology and AI
+- 🔍 Interpretable models — built to be checked by clinicians, not just trusted blindly
 - 🧫 Translational bioinformatics — connecting computation to clinical application
 
 ---
@@ -37,6 +41,9 @@ What draws me to this space is fairly simple: people deserve to know what's happ
 
 Research collaborations in AI-driven diagnostics, biomarker discovery, and translational bioinformatics.
 
+---
+
+> *I'd rather build something a doctor can question and trust, than something they're just told to believe.*
 ---
 
 > *Every dataset tells a biological story. I'm interested in building AI that helps us read it sooner.*
