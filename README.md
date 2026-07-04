@@ -42,12 +42,4 @@ What draws me to this space is fairly simple: people deserve to know what's happ
 Research collaborations in AI-driven diagnostics, biomarker discovery, and translational bioinformatics.
 
 ---
-
-> ---
-
-```python
-research_philosophy = {
-    "belief": "Every dataset tells a biological story.",
-    "mission": "Build AI that helps us read it sooner."
-}
-```
+> *Every dataset tells a biological story. I'm interested in building AI that helps us read it sooner.*
