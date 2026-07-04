@@ -21,11 +21,11 @@ What draws me to this space is fairly simple: people deserve to know what's happ
 
 ## What I Work On
 
-- 🧬 Machine learning pipelines for genomic and transcriptomic analysis
-- 🩺 Early disease detection and biomarker discovery
-- 🤖 Agentic AI and LLM-based systems for clinical and biomedical data
-- 🔍 Interpretable models — built to be checked by clinicians, not just trusted blindly
-- 🧫 Translational bioinformatics — connecting computation to clinical application
+- Machine learning pipelines for genomic and transcriptomic analysis
+- Early disease detection and biomarker discovery
+- Agentic AI and LLM-based systems for clinical and biomedical data
+- Interpretable models: built to be checked by clinicians, not just trusted blindly
+- Translational bioinformatics-connecting computation to clinical application
 
 ---
 
