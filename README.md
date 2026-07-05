@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a Master's student in **Bioinformatics and Computational Biology**, working at the intersection of computational biology and AI- moving from traditional bioinformatics workflows toward machine learning, LLMs, and intelligent systems for early disease detection, biomarker discovery, and precision medicine.
+I'm a Master's student in **Bioinformatics**, working at the intersection of computational biology and AI- moving from traditional bioinformatics workflows toward machine learning, LLMs, and intelligent systems for early disease detection, biomarker discovery, and precision medicine.
 
 What draws me to this space is fairly simple: people deserve to know what's happening in their own bodies before it's too late to act on it. A lot of diagnosis still happens after disease has already taken hold, when options have narrowed. I want to help build the tools that move that detection earlier - which is why I'm trying to build depth across biology and AI/ML together, rather than staying inside just one of them. And I want what I build to be something a doctor can question and verify, not a black box they're asked to just trust - the goal of diagnosis doesn't change, I just want to help make the tools for it better.
 
